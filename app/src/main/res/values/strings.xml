@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1 Hello World</string>
+    <string name="input_name">Name</string>
+    <string name="input_age">Age</string>
+    <string name="display">Display</string>
+    <string name="Reset">Reset</string>
+</resources>
